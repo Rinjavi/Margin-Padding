@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(198, 192, 192);
+}   
+
+.card {
+    margin-left: 50px;
+    display: inline-block;
+    background-color: white;
+   
+}
+
+.title {
+    background-color: lightblue;
+    margin: 10px;
+    font-size: 40px;
+    padding: 10px;
+}
+
+.content {
+    background-color: lightblue;
+    margin: 10px;
+    font-size: 30px;
+    padding: 10px;
+
+}
+
+.button-container {
+    background-color: lightblue;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+    padding: 10px;
+}
+button {
+    margin-left: 235px;
+    display: block;
+    padding: 5px;
+    font-size: 25px;
+}
